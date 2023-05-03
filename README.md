@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cennet</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Yakın zamanda Bilgisayar Mühendisliği Bölümü'nden mezun oldu. İşbirlikçi bir ekip ortamında öğrenme ve gelişme arzusu olan tutkulu genç Frontend developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
