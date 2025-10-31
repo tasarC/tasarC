@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cennet</h1>
-<h3 align="center">Yakın zamanda Bilgisayar Mühendisliği Bölümü'nden mezun oldu. İşbirlikçi bir ekip ortamında öğrenme ve gelişme arzusu olan tutkulu genç Frontend developer.</h3>
+<h3 align="center">Bilgisayar Mühendisliği mezunuyum ve frontend projeleri geliştirme deneyimimin yanı sıra siber güvenlik alanında 
+kendimi aktif olarak geliştirmekteyim. OWASP Top 10, ağ güvenliği, Linux sistemleri ve temel script yazımı (Bash, Python) 
+konularında bilgi sahibiyim. Burp Suite, Nmap ve Wireshark gibi araçlarda pratik yaparak yetkinlik kazanmaktayım. Temel 
+zafiyet analizleri ve CTF platformlarında (Hack The Box vb.) uygulamalı çalışmalar yürütüyor, raporlama ve bulgu yazımı 
+alanında deneyimimi artırıyorum. Sürekli öğrenmeye açık, siber güvenlik topluluklarında aktif ve gelişime odaklı biriyim. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
